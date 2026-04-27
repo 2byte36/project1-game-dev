@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: 325348cd936f328448c336bccc9d9a4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4240608095007434132
+    second: spritesheet-characters-double_0
+  - first:
+      213: 8827008269792085561
+    second: spritesheet-characters-double_1
+  - first:
+      213: 1785834815151859599
+    second: spritesheet-characters-double_2
+  - first:
+      213: 8118902804049812029
+    second: spritesheet-characters-double_3
+  - first:
+      213: -5955983721933651213
+    second: spritesheet-characters-double_4
+  - first:
+      213: 647699611479714900
+    second: spritesheet-characters-double_5
+  - first:
+      213: 9085107729180291494
+    second: spritesheet-characters-double_6
+  - first:
+      213: 4940929174907958823
+    second: spritesheet-characters-double_7
+  - first:
+      213: -663252139636849141
+    second: spritesheet-characters-double_8
+  - first:
+      213: 3533142010948858092
+    second: spritesheet-characters-double_9
+  - first:
+      213: 5755033569328799132
+    second: spritesheet-characters-double_10
+  - first:
+      213: 8255879128028433076
+    second: spritesheet-characters-double_11
+  - first:
+      213: 1639810836754006545
+    second: spritesheet-characters-double_12
+  - first:
+      213: 8794303303424530111
+    second: spritesheet-characters-double_13
+  - first:
+      213: -5359348178933197495
+    second: spritesheet-characters-double_14
+  - first:
+      213: -7968221402774778867
+    second: spritesheet-characters-double_15
+  - first:
+      213: -5364077592005666863
+    second: spritesheet-characters-double_16
+  - first:
+      213: 5816494426224835668
+    second: spritesheet-characters-double_17
+  - first:
+      213: -930719394128158397
+    second: spritesheet-characters-double_18
+  - first:
+      213: 1985435936523116420
+    second: spritesheet-characters-double_19
+  - first:
+      213: 3460255935833563735
+    second: spritesheet-characters-double_20
+  - first:
+      213: -7818492830802875840
+    second: spritesheet-characters-double_21
+  - first:
+      213: 5710900622154859999
+    second: spritesheet-characters-double_22
+  - first:
+      213: -5112188588347103399
+    second: spritesheet-characters-double_23
+  - first:
+      213: 1234336100883119761
+    second: spritesheet-characters-double_24
+  - first:
+      213: 130208311661628023
+    second: spritesheet-characters-double_25
+  - first:
+      213: 2786661872038163349
+    second: spritesheet-characters-double_26
+  - first:
+      213: 3485969109513300225
+    second: spritesheet-characters-double_27
+  - first:
+      213: -7080930010913199614
+    second: spritesheet-characters-double_28
+  - first:
+      213: -1281490431499312811
+    second: spritesheet-characters-double_29
+  - first:
+      213: 6100152869056007854
+    second: spritesheet-characters-double_30
+  - first:
+      213: 3218633182156324247
+    second: spritesheet-characters-double_31
+  - first:
+      213: 1614309380643143310
+    second: spritesheet-characters-double_32
+  - first:
+      213: 5032210473173201199
+    second: spritesheet-characters-double_33
+  - first:
+      213: -4220268604751642718
+    second: spritesheet-characters-double_34
+  - first:
+      213: 3367452917787547741
+    second: spritesheet-characters-double_35
+  - first:
+      213: 469473082617748027
+    second: spritesheet-characters-double_36
+  - first:
+      213: 3691861249792100421
+    second: spritesheet-characters-double_37
+  - first:
+      213: 6878196981840408092
+    second: spritesheet-characters-double_38
+  - first:
+      213: 248614848919929195
+    second: spritesheet-characters-double_39
+  - first:
+      213: 419896424468609819
+    second: spritesheet-characters-double_40
+  - first:
+      213: -6432694280981526289
+    second: spritesheet-characters-double_41
+  - first:
+      213: 8366856283841133117
+    second: spritesheet-characters-double_42
+  - first:
+      213: -1913271957900567029
+    second: spritesheet-characters-double_43
+  - first:
+      213: 6168213015080472186
+    second: spritesheet-characters-double_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_beige_climb_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3089d1f4ed3746a650bc1fc138629
+      internalID: -435518591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_climb_b
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4116d1efe77fba34fb1ebb2c4a6a9be0
+      internalID: 1313207565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_duck
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82912d5e0837684fba9d70f3caa1688
+      internalID: -1256999479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_front
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f68a9efc977154b9d2c8abe0d5c1d6
+      internalID: -759111421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_hit
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6909946efdc1d4b880aaae0eb10fcb
+      internalID: -557834608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_idle
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa6e36a7b13cd449a47c2d0fb85ed3c
+      internalID: 45298868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_jump
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9df5dc04e13545845fda463031ed6
+      internalID: -1725170503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_walk_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becff7027510a294f98d967f9f488bfb
+      internalID: -1573031454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_walk_b
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af16fa6b2d473743bd338c487652950
+      internalID: -264648897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_climb_a
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efdcb4e6861ab5458b3ec2da6cc0a3d
+      internalID: 1188411709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_climb_b
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c511f3295b6d2749b025fbb3a78a012
+      internalID: -458902647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_duck
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff937a05ba3ecd74691e8fda33fc7c65
+      internalID: -1428573787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_front
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf0a89850bf2647b2a7cb53b88c854
+      internalID: -1017692695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_hit
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d69c3d4650a19e428d1dfe960985cf3
+      internalID: -1334800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f5326ae223524486743819974b3f1
+      internalID: -615704727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_jump
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c34354dc9f4ac419255604f3a18949
+      internalID: -1099439907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_walk_a
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4529ae91aa694aaa1dfe147703e5c
+      internalID: -1474292752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_walk_b
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8556edfc58de744a29e3654c30f5c0
+      internalID: -1784067834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_climb_a
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b501dcb668c752a41aae0d6bc071b60a
+      internalID: 855869080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_climb_b
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571a78ee2d2a624ea941b0c2662610b
+      internalID: 1813401776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_duck
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377d28b9e7f8c3b4b826d28809d7db3c
+      internalID: 1685356566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8540f1f8576717459d8519d00a7adc6
+      internalID: -1489855577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_hit
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 771
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1f2d372ce3384d894d50b64850c11
+      internalID: -1500647700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_idle
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 771
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40b95ffe3238f04daaeb7967327b1f2
+      internalID: -351668295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_jump
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 771
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997a66e9242d7444ba31b1f10c31f23
+      internalID: 1648654058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_walk_a
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 771
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a6b079833f1b4690ed185b0ae8d90
+      internalID: -939045270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_walk_b
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 771
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff329834503984f8b22cd5d6e680ab
+      internalID: 1001971258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_climb_a
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 771
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199e22756b4d524cb05ba68c6b6c2cd
+      internalID: 796439153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_climb_b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3356418445d54b98a9d4829fed8b4
+      internalID: 2019349343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_duck
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e4dd168fbe014da41580f55030caa
+      internalID: 1134938972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_front
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7709b82ff3076fb4e977fb78eba72d38
+      internalID: 527360716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_hit
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e987353f44ffb541a84bd257d0bd7b7
+      internalID: -902159872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_idle
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffca8df1ebe74f44a1b26682a24dd07
+      internalID: -773747756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_jump
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ac8a0ffa11db4283578c92eff120a
+      internalID: -769852239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_walk_a
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b7b4bf727a274ca20bd8e92f4d67f
+      internalID: -594003628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_walk_b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be83a73e82597d54da381e028d6c4a1d
+      internalID: 1180517606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_climb_a
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2a7f2cf6c36646a5cd5d1ea136dd9
+      internalID: -1569727090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_climb_b
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b8c35efeedba42bdb61db0493db36
+      internalID: 1611321172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_duck
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152510be789ef2499dcc0a4ec1ee713
+      internalID: -210165024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_front
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786ecc30097d0b4590be77ce9de8ecc
+      internalID: 80357517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_hit
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d23af1b01fd66d41b7c6fa926c59875
+      internalID: -895246137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_idle
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b953a40497fd4c438efac4080379974
+      internalID: -1890565339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4837b405d0cb6440bb0109961663c1c
+      internalID: 2014896663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_walk_a
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8f2c86f99ae942b6c4e409c6da05b
+      internalID: -1058052100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_walk_b
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c72f8962c8f89498b14c8232c885e9
+      internalID: 1551275997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0ebc202fcd447b4e99b7a8249f6a35c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_beige_climb_a: -435518591
+      character_beige_climb_b: 1313207565
+      character_beige_duck: -1256999479
+      character_beige_front: -759111421
+      character_beige_hit: -557834608
+      character_beige_idle: 45298868
+      character_beige_jump: -1725170503
+      character_beige_walk_a: -1573031454
+      character_beige_walk_b: -264648897
+      character_green_climb_a: 1188411709
+      character_green_climb_b: -458902647
+      character_green_duck: -1428573787
+      character_green_front: -1017692695
+      character_green_hit: -1334800
+      character_green_idle: -615704727
+      character_green_jump: -1099439907
+      character_green_walk_a: -1474292752
+      character_green_walk_b: -1784067834
+      character_pink_climb_a: 855869080
+      character_pink_climb_b: 1813401776
+      character_pink_duck: 1685356566
+      character_pink_front: -1489855577
+      character_pink_hit: -1500647700
+      character_pink_idle: -351668295
+      character_pink_jump: 1648654058
+      character_pink_walk_a: -939045270
+      character_pink_walk_b: 1001971258
+      character_purple_climb_a: 796439153
+      character_purple_climb_b: 2019349343
+      character_purple_duck: 1134938972
+      character_purple_front: 527360716
+      character_purple_hit: -902159872
+      character_purple_idle: -773747756
+      character_purple_jump: -769852239
+      character_purple_walk_a: -594003628
+      character_purple_walk_b: 1180517606
+      character_yellow_climb_a: -1569727090
+      character_yellow_climb_b: 1611321172
+      character_yellow_duck: -210165024
+      character_yellow_front: 80357517
+      character_yellow_hit: -895246137
+      character_yellow_idle: -1890565339
+      character_yellow_jump: 2014896663
+      character_yellow_walk_a: -1058052100
+      character_yellow_walk_b: 1551275997
+      spritesheet-characters-double_0: -4240608095007434132
+      spritesheet-characters-double_1: 8827008269792085561
+      spritesheet-characters-double_10: 5755033569328799132
+      spritesheet-characters-double_11: 8255879128028433076
+      spritesheet-characters-double_12: 1639810836754006545
+      spritesheet-characters-double_13: 8794303303424530111
+      spritesheet-characters-double_14: -5359348178933197495
+      spritesheet-characters-double_15: -7968221402774778867
+      spritesheet-characters-double_16: -5364077592005666863
+      spritesheet-characters-double_17: 5816494426224835668
+      spritesheet-characters-double_18: -930719394128158397
+      spritesheet-characters-double_19: 1985435936523116420
+      spritesheet-characters-double_2: 1785834815151859599
+      spritesheet-characters-double_20: 3460255935833563735
+      spritesheet-characters-double_21: -7818492830802875840
+      spritesheet-characters-double_22: 5710900622154859999
+      spritesheet-characters-double_23: -5112188588347103399
+      spritesheet-characters-double_24: 1234336100883119761
+      spritesheet-characters-double_25: 130208311661628023
+      spritesheet-characters-double_26: 2786661872038163349
+      spritesheet-characters-double_27: 3485969109513300225
+      spritesheet-characters-double_28: -7080930010913199614
+      spritesheet-characters-double_29: -1281490431499312811
+      spritesheet-characters-double_3: 8118902804049812029
+      spritesheet-characters-double_30: 6100152869056007854
+      spritesheet-characters-double_31: 3218633182156324247
+      spritesheet-characters-double_32: 1614309380643143310
+      spritesheet-characters-double_33: 5032210473173201199
+      spritesheet-characters-double_34: -4220268604751642718
+      spritesheet-characters-double_35: 3367452917787547741
+      spritesheet-characters-double_36: 469473082617748027
+      spritesheet-characters-double_37: 3691861249792100421
+      spritesheet-characters-double_38: 6878196981840408092
+      spritesheet-characters-double_39: 248614848919929195
+      spritesheet-characters-double_4: -5955983721933651213
+      spritesheet-characters-double_40: 419896424468609819
+      spritesheet-characters-double_41: -6432694280981526289
+      spritesheet-characters-double_42: 8366856283841133117
+      spritesheet-characters-double_43: -1913271957900567029
+      spritesheet-characters-double_44: 6168213015080472186
+      spritesheet-characters-double_5: 647699611479714900
+      spritesheet-characters-double_6: 9085107729180291494
+      spritesheet-characters-double_7: 4940929174907958823
+      spritesheet-characters-double_8: -663252139636849141
+      spritesheet-characters-double_9: 3533142010948858092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

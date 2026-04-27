@@ -1,0 +1,1750 @@
+fileFormatVersion: 2
+guid: 753f8d67139713e47b2f7f8da6a416e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7795821487648162308
+    second: spritesheet-enemies-double_0
+  - first:
+      213: -9104907080198014772
+    second: spritesheet-enemies-double_1
+  - first:
+      213: -386021625038515881
+    second: spritesheet-enemies-double_2
+  - first:
+      213: -9158701768025155399
+    second: spritesheet-enemies-double_3
+  - first:
+      213: -2742757293687383473
+    second: spritesheet-enemies-double_4
+  - first:
+      213: -1398648851663589879
+    second: spritesheet-enemies-double_5
+  - first:
+      213: -5840716542253221145
+    second: spritesheet-enemies-double_6
+  - first:
+      213: 2704440367996828906
+    second: spritesheet-enemies-double_7
+  - first:
+      213: -5313055286811312433
+    second: spritesheet-enemies-double_8
+  - first:
+      213: 2812557182092333795
+    second: spritesheet-enemies-double_9
+  - first:
+      213: 4782129564143912881
+    second: spritesheet-enemies-double_10
+  - first:
+      213: 7975345498285880470
+    second: spritesheet-enemies-double_11
+  - first:
+      213: -1117318589011133282
+    second: spritesheet-enemies-double_12
+  - first:
+      213: -7233569201896187520
+    second: spritesheet-enemies-double_13
+  - first:
+      213: 356563848865648270
+    second: spritesheet-enemies-double_14
+  - first:
+      213: -6989346021089321474
+    second: spritesheet-enemies-double_15
+  - first:
+      213: -5995155641897333026
+    second: spritesheet-enemies-double_16
+  - first:
+      213: 1123879451586540580
+    second: spritesheet-enemies-double_17
+  - first:
+      213: -6096259477106141548
+    second: spritesheet-enemies-double_18
+  - first:
+      213: -2134646346512429055
+    second: spritesheet-enemies-double_19
+  - first:
+      213: 2356513884800920870
+    second: spritesheet-enemies-double_20
+  - first:
+      213: -65998817390728955
+    second: spritesheet-enemies-double_21
+  - first:
+      213: 4196244960391682559
+    second: spritesheet-enemies-double_22
+  - first:
+      213: 5932569840740796335
+    second: spritesheet-enemies-double_23
+  - first:
+      213: 2170686844646634739
+    second: spritesheet-enemies-double_24
+  - first:
+      213: 8795143056948184841
+    second: spritesheet-enemies-double_25
+  - first:
+      213: -5789127256120666469
+    second: spritesheet-enemies-double_26
+  - first:
+      213: 6174874142283778455
+    second: spritesheet-enemies-double_27
+  - first:
+      213: -6493991529003829478
+    second: spritesheet-enemies-double_28
+  - first:
+      213: -373061044042261930
+    second: spritesheet-enemies-double_29
+  - first:
+      213: 6329580012912526301
+    second: spritesheet-enemies-double_30
+  - first:
+      213: -4144363999593815509
+    second: spritesheet-enemies-double_31
+  - first:
+      213: 7209628347838934067
+    second: spritesheet-enemies-double_32
+  - first:
+      213: 6962494292637988224
+    second: spritesheet-enemies-double_33
+  - first:
+      213: 3154063268473551996
+    second: spritesheet-enemies-double_34
+  - first:
+      213: 3163780012781542168
+    second: spritesheet-enemies-double_35
+  - first:
+      213: 6897602553182559603
+    second: spritesheet-enemies-double_36
+  - first:
+      213: -2013355208749009514
+    second: spritesheet-enemies-double_37
+  - first:
+      213: -1642972485552068409
+    second: spritesheet-enemies-double_38
+  - first:
+      213: -304876555845921792
+    second: spritesheet-enemies-double_39
+  - first:
+      213: -7177857051768985262
+    second: spritesheet-enemies-double_40
+  - first:
+      213: 2862905451843405944
+    second: spritesheet-enemies-double_41
+  - first:
+      213: 712426406927395171
+    second: spritesheet-enemies-double_42
+  - first:
+      213: -3009802025943752616
+    second: spritesheet-enemies-double_43
+  - first:
+      213: -4862537159741814474
+    second: spritesheet-enemies-double_44
+  - first:
+      213: -7781611610343554966
+    second: spritesheet-enemies-double_45
+  - first:
+      213: -2548526512478477852
+    second: spritesheet-enemies-double_46
+  - first:
+      213: 8382161069159434780
+    second: spritesheet-enemies-double_47
+  - first:
+      213: -8953484317888366804
+    second: spritesheet-enemies-double_48
+  - first:
+      213: -3304499264322498404
+    second: spritesheet-enemies-double_49
+  - first:
+      213: 5483416515600162048
+    second: spritesheet-enemies-double_50
+  - first:
+      213: 1978973647163775702
+    second: spritesheet-enemies-double_51
+  - first:
+      213: -942300354185985873
+    second: spritesheet-enemies-double_52
+  - first:
+      213: -7509006543553905223
+    second: spritesheet-enemies-double_53
+  - first:
+      213: -325697134590856661
+    second: spritesheet-enemies-double_54
+  - first:
+      213: -5712972029878598035
+    second: spritesheet-enemies-double_55
+  - first:
+      213: -4161967944167734639
+    second: spritesheet-enemies-double_56
+  - first:
+      213: 8032564457139536799
+    second: spritesheet-enemies-double_57
+  - first:
+      213: 6608572065999514518
+    second: spritesheet-enemies-double_58
+  - first:
+      213: -4169282025641927679
+    second: spritesheet-enemies-double_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barnacle_attack_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e44b9244a489ae4c93727212c0b0c3e
+      internalID: 191377629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barnacle_attack_b
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d7e3c012656644b8bf7041bc5d032
+      internalID: 953439148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barnacle_attack_rest
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44355f6a3a1e39e48ace75a8ad6b3f22
+      internalID: 1935514301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_a
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fc3ba91c576f74983af267a3025665
+      internalID: -1357086138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_b
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b8db050899b345b94689c5675f1af
+      internalID: -1117319121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee_rest
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aacb792d8a244e46b42b6a04031477c
+      internalID: -347508302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block_fall
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4addeb032d657304a9e3c4405bd40df1
+      internalID: -355380751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block_idle
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 903
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f048c47c730e0b40a7eab44af01d09b
+      internalID: -227979761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block_rest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb7a8124597ddf42b28c37b55f03b6a
+      internalID: 1984773930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_blue_rest
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3f61a85e21944c93885d021b69d65
+      internalID: 406941002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_blue_swim_a
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797e7e8082e7444a8bc5be6d7f3cfe3
+      internalID: -1260999108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_blue_swim_b
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a83dbfef9993b4185f00b38511b6c9
+      internalID: -515213208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_purple_down
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae8ba5f370b9243abba3b868ee830d
+      internalID: -533918318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_purple_rest
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3544780a41389e41adacc352edd05ff
+      internalID: -24099460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_purple_up
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e2e1e00590084ebc3b16a63a5ed68
+      internalID: 1079579937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_yellow_rest
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f939e942c95c84bb45c6a4017123e5
+      internalID: 1197669517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_yellow_swim_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66a5a8c7b56264d8b333c8369ed645
+      internalID: 2009975249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_yellow_swim_b
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca887a6fd1a128449bcf4f77b3cd01f
+      internalID: 2038066647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_a
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe567796ed73915428d48a287899f8b0
+      internalID: 1807752344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_b
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3490cdfb3cf6a49bb90aeaaa1758ca
+      internalID: -1969832797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_rest
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f51f6f19c147b439d220b490cd186b
+      internalID: -251344746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_idle
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c226aefca06a50246bbcbe13929de635
+      internalID: -1834805951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_jump
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc45ab81b9b5f3740b39aa53424ecf61
+      internalID: 1851309590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_rest
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec8385a7914b99419bc420081745d99
+      internalID: -495657534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_fly
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dedbe96e0fba442b3c0f1d2cc023db
+      internalID: 164810869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_rest
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e869c9aea4102548af37216a9e4c18b
+      internalID: -1501564654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_walk_a
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296f2ae9e78ed546b11ac0fddc4ee56
+      internalID: -51990448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_walk_b
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653baf2715e041e46a0b69501598768c
+      internalID: -1589745296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_rest
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b000b47c0a4ad843aafc3a2ec9037ec
+      internalID: -332648467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_walk_a
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd98f6b990cdd74fb32bc58113078ba
+      internalID: 1331883302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_walk_b
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e46ded4303b94ca960020cf5c0bd3
+      internalID: 1942643310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saw_a
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1628ba0150e14e92da0fd7bc9d1d7
+      internalID: 1687327003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saw_b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8322b49974a5a84c9d6f3583347411e
+      internalID: -155452384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saw_rest
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d72f000bc598b4499d5cf5a594aab7
+      internalID: -2088794334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_block_jump
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506178457233be640a6c453b38a4c4ef
+      internalID: -583613643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_block_rest
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f52d9a40e8484289113a377822872
+      internalID: 766254901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_block_walk_a
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071119485815c854193798bad7c2a6a9
+      internalID: 687226461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_block_walk_b
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98861298d83704abc070456df3d6cd
+      internalID: 1371198419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_fire_flat
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5308605f72907d49824ae3a83c8d221
+      internalID: 1328860484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_fire_rest
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1000ca026a38c1e448439d1fcc9e2442
+      internalID: 10150755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_fire_walk_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72262dd1d25aa9740ae400727e968a2f
+      internalID: 1741912577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_fire_walk_b
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f8dda79e42af24ba757dd526df75a1
+      internalID: 1409817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_normal_flat
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364303e8cc97bba4892b0d0b4df033bf
+      internalID: 216584383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_normal_rest
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873dfa87ff286a1408e277fc72c2b685
+      internalID: -1965673256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_normal_walk_a
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf36e8c1833ffbe4c981aa627b8b6ec7
+      internalID: 2026551212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_normal_walk_b
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f40053ed7caf646b00c28e4b543913
+      internalID: 1291105944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_spike_flat
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e913bce4fd06489e273c9dc781e2f
+      internalID: -1140681578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_spike_rest
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db011951956f448aaa1334354eb5e7
+      internalID: -1464033629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_spike_walk_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f69cad2bdb8444ca2217cbb71352cb
+      internalID: -338746651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_spike_walk_b
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1ba4c234fb5184dbce81c8dea17bcf
+      internalID: 1687469448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_rest
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd9faf364c31f94899dec7534483c91
+      internalID: 2025536848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_shell
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14032ae057a2004b8aa441479260dd8
+      internalID: 227267398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_walk_a
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a310c8d2d2ef7c4684eaeb37c81a6b2
+      internalID: -1123946570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail_walk_b
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0a3c95712e8a48a9fd9d2376c4847
+      internalID: -1423545796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_normal_move_a
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8de2d9697429a468fbbbc28498e13a
+      internalID: 1471929243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_normal_move_b
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36bf64926f48d4187dc6bc39f26299
+      internalID: -230726494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_normal_rest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490cdf7fbca90447a4c80c5008e4190
+      internalID: 1853808943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_ring_move_a
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05116a03d0af0a42ae253f99dabe4d1
+      internalID: -1627927308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_ring_move_b
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dff19852b6a9e41800419b149465f3
+      internalID: 859283823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_ring_rest
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe9ef73cc0377b47aa991a6e157a0a7
+      internalID: -693260256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a5228f75ea5b75c4fb05199be1aa83e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barnacle_attack_a: 191377629
+      barnacle_attack_b: 953439148
+      barnacle_attack_rest: 1935514301
+      bee_a: -1357086138
+      bee_b: -1117319121
+      bee_rest: -347508302
+      block_fall: -355380751
+      block_idle: -227979761
+      block_rest: 1984773930
+      fish_blue_rest: 406941002
+      fish_blue_swim_a: -1260999108
+      fish_blue_swim_b: -515213208
+      fish_purple_down: -533918318
+      fish_purple_rest: -24099460
+      fish_purple_up: 1079579937
+      fish_yellow_rest: 1197669517
+      fish_yellow_swim_a: 2009975249
+      fish_yellow_swim_b: 2038066647
+      fly_a: 1807752344
+      fly_b: -1969832797
+      fly_rest: -251344746
+      frog_idle: -1834805951
+      frog_jump: 1851309590
+      frog_rest: -495657534
+      ladybug_fly: 164810869
+      ladybug_rest: -1501564654
+      ladybug_walk_a: -51990448
+      ladybug_walk_b: -1589745296
+      mouse_rest: -332648467
+      mouse_walk_a: 1331883302
+      mouse_walk_b: 1942643310
+      saw_a: 1687327003
+      saw_b: -155452384
+      saw_rest: -2088794334
+      slime_block_jump: -583613643
+      slime_block_rest: 766254901
+      slime_block_walk_a: 687226461
+      slime_block_walk_b: 1371198419
+      slime_fire_flat: 1328860484
+      slime_fire_rest: 10150755
+      slime_fire_walk_a: 1741912577
+      slime_fire_walk_b: 1409817989
+      slime_normal_flat: 216584383
+      slime_normal_rest: -1965673256
+      slime_normal_walk_a: 2026551212
+      slime_normal_walk_b: 1291105944
+      slime_spike_flat: -1140681578
+      slime_spike_rest: -1464033629
+      slime_spike_walk_a: -338746651
+      slime_spike_walk_b: 1687469448
+      snail_rest: 2025536848
+      snail_shell: 227267398
+      snail_walk_a: -1123946570
+      snail_walk_b: -1423545796
+      spritesheet-enemies-double_0: 7795821487648162308
+      spritesheet-enemies-double_1: -9104907080198014772
+      spritesheet-enemies-double_10: 4782129564143912881
+      spritesheet-enemies-double_11: 7975345498285880470
+      spritesheet-enemies-double_12: -1117318589011133282
+      spritesheet-enemies-double_13: -7233569201896187520
+      spritesheet-enemies-double_14: 356563848865648270
+      spritesheet-enemies-double_15: -6989346021089321474
+      spritesheet-enemies-double_16: -5995155641897333026
+      spritesheet-enemies-double_17: 1123879451586540580
+      spritesheet-enemies-double_18: -6096259477106141548
+      spritesheet-enemies-double_19: -2134646346512429055
+      spritesheet-enemies-double_2: -386021625038515881
+      spritesheet-enemies-double_20: 2356513884800920870
+      spritesheet-enemies-double_21: -65998817390728955
+      spritesheet-enemies-double_22: 4196244960391682559
+      spritesheet-enemies-double_23: 5932569840740796335
+      spritesheet-enemies-double_24: 2170686844646634739
+      spritesheet-enemies-double_25: 8795143056948184841
+      spritesheet-enemies-double_26: -5789127256120666469
+      spritesheet-enemies-double_27: 6174874142283778455
+      spritesheet-enemies-double_28: -6493991529003829478
+      spritesheet-enemies-double_29: -373061044042261930
+      spritesheet-enemies-double_3: -9158701768025155399
+      spritesheet-enemies-double_30: 6329580012912526301
+      spritesheet-enemies-double_31: -4144363999593815509
+      spritesheet-enemies-double_32: 7209628347838934067
+      spritesheet-enemies-double_33: 6962494292637988224
+      spritesheet-enemies-double_34: 3154063268473551996
+      spritesheet-enemies-double_35: 3163780012781542168
+      spritesheet-enemies-double_36: 6897602553182559603
+      spritesheet-enemies-double_37: -2013355208749009514
+      spritesheet-enemies-double_38: -1642972485552068409
+      spritesheet-enemies-double_39: -304876555845921792
+      spritesheet-enemies-double_4: -2742757293687383473
+      spritesheet-enemies-double_40: -7177857051768985262
+      spritesheet-enemies-double_41: 2862905451843405944
+      spritesheet-enemies-double_42: 712426406927395171
+      spritesheet-enemies-double_43: -3009802025943752616
+      spritesheet-enemies-double_44: -4862537159741814474
+      spritesheet-enemies-double_45: -7781611610343554966
+      spritesheet-enemies-double_46: -2548526512478477852
+      spritesheet-enemies-double_47: 8382161069159434780
+      spritesheet-enemies-double_48: -8953484317888366804
+      spritesheet-enemies-double_49: -3304499264322498404
+      spritesheet-enemies-double_5: -1398648851663589879
+      spritesheet-enemies-double_50: 5483416515600162048
+      spritesheet-enemies-double_51: 1978973647163775702
+      spritesheet-enemies-double_52: -942300354185985873
+      spritesheet-enemies-double_53: -7509006543553905223
+      spritesheet-enemies-double_54: -325697134590856661
+      spritesheet-enemies-double_55: -5712972029878598035
+      spritesheet-enemies-double_56: -4161967944167734639
+      spritesheet-enemies-double_57: 8032564457139536799
+      spritesheet-enemies-double_58: 6608572065999514518
+      spritesheet-enemies-double_59: -4169282025641927679
+      spritesheet-enemies-double_6: -5840716542253221145
+      spritesheet-enemies-double_7: 2704440367996828906
+      spritesheet-enemies-double_8: -5313055286811312433
+      spritesheet-enemies-double_9: 2812557182092333795
+      worm_normal_move_a: 1471929243
+      worm_normal_move_b: -230726494
+      worm_normal_rest: 1853808943
+      worm_ring_move_a: -1627927308
+      worm_ring_move_b: 859283823
+      worm_ring_rest: -693260256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

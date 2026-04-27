@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: ad3d4217b42fff246bcaf2426305b18d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6260375228410072775
+    second: spritesheet-backgrounds-double_0
+  - first:
+      213: 4490480078637153491
+    second: spritesheet-backgrounds-double_1
+  - first:
+      213: 3147825690503771732
+    second: spritesheet-backgrounds-double_2
+  - first:
+      213: -7377576487720170516
+    second: spritesheet-backgrounds-double_3
+  - first:
+      213: 2510112129577898930
+    second: spritesheet-backgrounds-double_4
+  - first:
+      213: 7794188296236672455
+    second: spritesheet-backgrounds-double_5
+  - first:
+      213: -5219011680076450446
+    second: spritesheet-backgrounds-double_6
+  - first:
+      213: 5709259749113386777
+    second: spritesheet-backgrounds-double_7
+  - first:
+      213: 202611898707379627
+    second: spritesheet-backgrounds-double_8
+  - first:
+      213: -7409588755291651232
+    second: spritesheet-backgrounds-double_9
+  - first:
+      213: 7047959696035783138
+    second: spritesheet-backgrounds-double_10
+  - first:
+      213: 2059141679219311292
+    second: spritesheet-backgrounds-double_11
+  - first:
+      213: 5555265820951987635
+    second: spritesheet-backgrounds-double_12
+  - first:
+      213: -843390863407113931
+    second: spritesheet-backgrounds-double_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_clouds
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42382c06104d25949bea468bb385c238
+      internalID: -1560167949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_color_desert
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad624c3495c0843b0d6e0b695c296d
+      internalID: 91299328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_color_hills
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938682995c5cc2d4eac700d3f0c88200
+      internalID: -25071303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_color_mushrooms
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635e6c9257a1444cbef5269faea29d8
+      internalID: -1458384902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_color_trees
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0808cbf8c8cd0a44957329800987f0e
+      internalID: -579854881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fade_desert
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1023
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0249c54b982baf4dba565c18853d095
+      internalID: -438676087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fade_hills
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1023
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ce989214397a4996051b547d68dd5
+      internalID: -1230397067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fade_mushrooms
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1023
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0281451ec72e14cad2f7cfc30b1a0d
+      internalID: -1989430025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fade_trees
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e33e7b2cd3e848812dcf5464312e2
+      internalID: -976678515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_solid_cloud
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 510
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb35b91b654a54ca202168a9aac8be
+      internalID: -942738732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_solid_dirt
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 510
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc3eb57162f42b45b6c18a38d0f0a9d
+      internalID: 478239662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_solid_grass
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 510
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a91a0b946f34489b2583c09d6c5bd
+      internalID: -226501232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_solid_sand
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: -3
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05cee8928f014043b133e2d3157fd37
+      internalID: -1938905345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_solid_sky
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: -3
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c8ecdcc16e0d479069f3be37b4deb
+      internalID: 645805006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 83db08030e5e27c47acbd5f6e2a50308
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      background_clouds: -1560167949
+      background_color_desert: 91299328
+      background_color_hills: -25071303
+      background_color_mushrooms: -1458384902
+      background_color_trees: -579854881
+      background_fade_desert: -438676087
+      background_fade_hills: -1230397067
+      background_fade_mushrooms: -1989430025
+      background_fade_trees: -976678515
+      background_solid_cloud: -942738732
+      background_solid_dirt: 478239662
+      background_solid_grass: -226501232
+      spritesheet-backgrounds-double_0: -6260375228410072775
+      spritesheet-backgrounds-double_1: 4490480078637153491
+      spritesheet-backgrounds-double_10: 7047959696035783138
+      spritesheet-backgrounds-double_11: 2059141679219311292
+      spritesheet-backgrounds-double_12: 5555265820951987635
+      spritesheet-backgrounds-double_13: -843390863407113931
+      spritesheet-backgrounds-double_2: 3147825690503771732
+      spritesheet-backgrounds-double_3: -7377576487720170516
+      spritesheet-backgrounds-double_4: 2510112129577898930
+      spritesheet-backgrounds-double_5: 7794188296236672455
+      spritesheet-backgrounds-double_6: -5219011680076450446
+      spritesheet-backgrounds-double_7: 5709259749113386777
+      spritesheet-backgrounds-double_8: 202611898707379627
+      spritesheet-backgrounds-double_9: -7409588755291651232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

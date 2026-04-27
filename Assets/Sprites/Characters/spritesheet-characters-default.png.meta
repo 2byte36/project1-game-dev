@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: c1b0df5b6d270b645be04f1c43bdc360
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1516483184387529025
+    second: spritesheet-characters-default_0
+  - first:
+      213: 211775934898953752
+    second: spritesheet-characters-default_1
+  - first:
+      213: -7111530666613408619
+    second: spritesheet-characters-default_2
+  - first:
+      213: 8219190902827597996
+    second: spritesheet-characters-default_3
+  - first:
+      213: 482379126287382239
+    second: spritesheet-characters-default_4
+  - first:
+      213: 311056923896743930
+    second: spritesheet-characters-default_5
+  - first:
+      213: -4695774582046945438
+    second: spritesheet-characters-default_6
+  - first:
+      213: -4595713069385369028
+    second: spritesheet-characters-default_7
+  - first:
+      213: -5747332739284348912
+    second: spritesheet-characters-default_8
+  - first:
+      213: -2796077757022282674
+    second: spritesheet-characters-default_9
+  - first:
+      213: 6144715408443906559
+    second: spritesheet-characters-default_10
+  - first:
+      213: -144443187003585436
+    second: spritesheet-characters-default_11
+  - first:
+      213: 9105219494030230328
+    second: spritesheet-characters-default_12
+  - first:
+      213: 4938961601127884658
+    second: spritesheet-characters-default_13
+  - first:
+      213: -6981895161831041823
+    second: spritesheet-characters-default_14
+  - first:
+      213: -6475856772366320131
+    second: spritesheet-characters-default_15
+  - first:
+      213: 608529117585639455
+    second: spritesheet-characters-default_16
+  - first:
+      213: -3317945877700360556
+    second: spritesheet-characters-default_17
+  - first:
+      213: 454096079775394508
+    second: spritesheet-characters-default_18
+  - first:
+      213: 8489900903403235563
+    second: spritesheet-characters-default_19
+  - first:
+      213: -4456421153385321519
+    second: spritesheet-characters-default_20
+  - first:
+      213: -917536899050956344
+    second: spritesheet-characters-default_21
+  - first:
+      213: -1186157906941791191
+    second: spritesheet-characters-default_22
+  - first:
+      213: 8630821001075620710
+    second: spritesheet-characters-default_23
+  - first:
+      213: -3901906420951901630
+    second: spritesheet-characters-default_24
+  - first:
+      213: 4819435017176623784
+    second: spritesheet-characters-default_25
+  - first:
+      213: -2157860780944187724
+    second: spritesheet-characters-default_26
+  - first:
+      213: -6287901631135702188
+    second: spritesheet-characters-default_27
+  - first:
+      213: -2896451398360180185
+    second: spritesheet-characters-default_28
+  - first:
+      213: 6615913174781221374
+    second: spritesheet-characters-default_29
+  - first:
+      213: -6787343892209836002
+    second: spritesheet-characters-default_30
+  - first:
+      213: 73126991172687104
+    second: spritesheet-characters-default_31
+  - first:
+      213: 6298738383321826139
+    second: spritesheet-characters-default_32
+  - first:
+      213: -789098660515651329
+    second: spritesheet-characters-default_33
+  - first:
+      213: 2145364229992885617
+    second: spritesheet-characters-default_34
+  - first:
+      213: 6449934069740465998
+    second: spritesheet-characters-default_35
+  - first:
+      213: 8200315140183105393
+    second: spritesheet-characters-default_36
+  - first:
+      213: -8774799074876459727
+    second: spritesheet-characters-default_37
+  - first:
+      213: 9223084950482534279
+    second: spritesheet-characters-default_38
+  - first:
+      213: -7559621544552133252
+    second: spritesheet-characters-default_39
+  - first:
+      213: 1903856657336869959
+    second: spritesheet-characters-default_40
+  - first:
+      213: 8667047086958661133
+    second: spritesheet-characters-default_41
+  - first:
+      213: -6708041380587495879
+    second: spritesheet-characters-default_42
+  - first:
+      213: 5283247947156715593
+    second: spritesheet-characters-default_43
+  - first:
+      213: -6818565991578883538
+    second: spritesheet-characters-default_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_beige_climb_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29646fe848ef8445b5de3ae1289968a
+      internalID: 750930419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_climb_b
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0814fbf7bbef034289bf7cfd1a0a5ef
+      internalID: 2121884175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_duck
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941222669536cc04eb09b8bd5c5da53f
+      internalID: 1663281439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_front
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c44d139421134f88140bcf6e47e80
+      internalID: -1098145683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_hit
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8781326a81b589a48aa61b2884a1564b
+      internalID: 2130832832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_idle
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753889591a58964fa9610da5fd9fcb2
+      internalID: -828439630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_jump
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 774
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702fcefa81861e143ac81d04fa4f9c63
+      internalID: 1512675675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_walk_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6058dd9d90a6b64fa037b3426cc9fe8
+      internalID: 762451395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_beige_walk_b
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62b19f50c17d9469e78cf086daec70
+      internalID: 86245446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_climb_a
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1b12c459ff04642aa9365b4614291c
+      internalID: -1436113515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_climb_b
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4bcb8041c93a64190aeed4440b4c1a
+      internalID: -1114148402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_duck
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443f82b52f117a498c1f9a44f95b69b
+      internalID: -1932000783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_front
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd75c4777cb10747babae250a24bd4d
+      internalID: -1939039674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_hit
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baf6503251b37d41aeea4f9cbcb99fb
+      internalID: -228081124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b72d584b1316241bffc770ead7fbfc
+      internalID: -814481273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_jump
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed234f0fe57825040a4b2e543dbbe9d2
+      internalID: 1789464171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_walk_a
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc80dc5f07445142851db7ceeffc277
+      internalID: 173197562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_green_walk_b
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25131e7202dcbe54aba472a777077d74
+      internalID: 893719727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_climb_a
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1982ebf302d201a4b81fcef8b44da9db
+      internalID: -1529214495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_climb_b
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf989598ae620ea4f9c49709d1e291f2
+      internalID: 373083168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_duck
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 516
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b084aa47e95ab794fbad7a05b0eb80ae
+      internalID: 2071366641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c13bd23edb74c45bf46de549bb33a8
+      internalID: 1750155141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_hit
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68336059df9c1694b85db376936d5bc3
+      internalID: 1896413909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_idle
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee58b70227758a4db35d76195fb68c1
+      internalID: -1693890403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_jump
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f1a6afc972a8d40a2c0dca1519789d
+      internalID: -789591255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_walk_a
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccdfda2c8e6e0e46ae3933944e8f468
+      internalID: -1248628362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_pink_walk_b
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ccd8be8ea059a468be03250d3e27d5
+      internalID: -1250721692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_climb_a
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b57180a198b844bfadbf8cd932e04
+      internalID: -1331638200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_climb_b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a614175f3036304c941f293e85f53f9
+      internalID: 1636259545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_duck
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c991bb7caceaccd47bde267bb85891c7
+      internalID: -1518233458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_front
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aedcb6359903d46ba80f38728ee160
+      internalID: 1526616118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_hit
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce77dbeeb7bf5e4b895510dc9984459
+      internalID: 701301290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_idle
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff2c56d6824b44f977830b35d4cb82
+      internalID: -1694293376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_jump
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c0a7d861f5024429b8355b555506d9
+      internalID: 318730767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_walk_a
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b89e8638ca0243a4aa13e6c845206
+      internalID: -1000978610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_purple_walk_b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce093715a26094f921be57d2782578
+      internalID: 1210230025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_climb_a
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48b1bbf2141f6949aaaafbfd532c5b4
+      internalID: 1877872195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_climb_b
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598feaed0987024d8092fc3007b07ed
+      internalID: 1562289325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_duck
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eb58711ea59cc4b8fb42533e3b62b0
+      internalID: -1978827743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_front
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f9ab9a216ffb459a2a153fdbd2dd3
+      internalID: 905055790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_hit
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b95be1506d54f4585d7e24ed97ee4e
+      internalID: 1366278582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_idle
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 129
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e17a7748bf2034a8790517efe9b2e7
+      internalID: -616622873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c428822c2a115a74a9bfab9ee2440585
+      internalID: 591779042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_walk_a
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430bffd753f8254c97951af2aff523a
+      internalID: -191362499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_yellow_walk_b
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ceeed6a2a6fb44da9b04a847e4c981
+      internalID: -1090478589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3557b9b531c8c484ea1be7132a268a02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_beige_climb_a: 750930419
+      character_beige_climb_b: 2121884175
+      character_beige_duck: 1663281439
+      character_beige_front: -1098145683
+      character_beige_hit: 2130832832
+      character_beige_idle: -828439630
+      character_beige_jump: 1512675675
+      character_beige_walk_a: 762451395
+      character_beige_walk_b: 86245446
+      character_green_climb_a: -1436113515
+      character_green_climb_b: -1114148402
+      character_green_duck: -1932000783
+      character_green_front: -1939039674
+      character_green_hit: -228081124
+      character_green_idle: -814481273
+      character_green_jump: 1789464171
+      character_green_walk_a: 173197562
+      character_green_walk_b: 893719727
+      character_pink_climb_a: -1529214495
+      character_pink_climb_b: 373083168
+      character_pink_duck: 2071366641
+      character_pink_front: 1750155141
+      character_pink_hit: 1896413909
+      character_pink_idle: -1693890403
+      character_pink_jump: -789591255
+      character_pink_walk_a: -1248628362
+      character_pink_walk_b: -1250721692
+      character_purple_climb_a: -1331638200
+      character_purple_climb_b: 1636259545
+      character_purple_duck: -1518233458
+      character_purple_front: 1526616118
+      character_purple_hit: 701301290
+      character_purple_idle: -1694293376
+      character_purple_jump: 318730767
+      character_purple_walk_a: -1000978610
+      character_purple_walk_b: 1210230025
+      character_yellow_climb_a: 1877872195
+      character_yellow_climb_b: 1562289325
+      character_yellow_duck: -1978827743
+      character_yellow_front: 905055790
+      character_yellow_hit: 1366278582
+      character_yellow_idle: -616622873
+      character_yellow_jump: 591779042
+      character_yellow_walk_a: -191362499
+      character_yellow_walk_b: -1090478589
+      spritesheet-characters-default_0: -1516483184387529025
+      spritesheet-characters-default_1: 211775934898953752
+      spritesheet-characters-default_10: 6144715408443906559
+      spritesheet-characters-default_11: -144443187003585436
+      spritesheet-characters-default_12: 9105219494030230328
+      spritesheet-characters-default_13: 4938961601127884658
+      spritesheet-characters-default_14: -6981895161831041823
+      spritesheet-characters-default_15: -6475856772366320131
+      spritesheet-characters-default_16: 608529117585639455
+      spritesheet-characters-default_17: -3317945877700360556
+      spritesheet-characters-default_18: 454096079775394508
+      spritesheet-characters-default_19: 8489900903403235563
+      spritesheet-characters-default_2: -7111530666613408619
+      spritesheet-characters-default_20: -4456421153385321519
+      spritesheet-characters-default_21: -917536899050956344
+      spritesheet-characters-default_22: -1186157906941791191
+      spritesheet-characters-default_23: 8630821001075620710
+      spritesheet-characters-default_24: -3901906420951901630
+      spritesheet-characters-default_25: 4819435017176623784
+      spritesheet-characters-default_26: -2157860780944187724
+      spritesheet-characters-default_27: -6287901631135702188
+      spritesheet-characters-default_28: -2896451398360180185
+      spritesheet-characters-default_29: 6615913174781221374
+      spritesheet-characters-default_3: 8219190902827597996
+      spritesheet-characters-default_30: -6787343892209836002
+      spritesheet-characters-default_31: 73126991172687104
+      spritesheet-characters-default_32: 6298738383321826139
+      spritesheet-characters-default_33: -789098660515651329
+      spritesheet-characters-default_34: 2145364229992885617
+      spritesheet-characters-default_35: 6449934069740465998
+      spritesheet-characters-default_36: 8200315140183105393
+      spritesheet-characters-default_37: -8774799074876459727
+      spritesheet-characters-default_38: 9223084950482534279
+      spritesheet-characters-default_39: -7559621544552133252
+      spritesheet-characters-default_4: 482379126287382239
+      spritesheet-characters-default_40: 1903856657336869959
+      spritesheet-characters-default_41: 8667047086958661133
+      spritesheet-characters-default_42: -6708041380587495879
+      spritesheet-characters-default_43: 5283247947156715593
+      spritesheet-characters-default_44: -6818565991578883538
+      spritesheet-characters-default_5: 311056923896743930
+      spritesheet-characters-default_6: -4695774582046945438
+      spritesheet-characters-default_7: -4595713069385369028
+      spritesheet-characters-default_8: -5747332739284348912
+      spritesheet-characters-default_9: -2796077757022282674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
