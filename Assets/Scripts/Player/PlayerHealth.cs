@@ -75,10 +75,10 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
-        if (playerRespawn != null)
+        if (GameManager.instance != null)
+            GameManager.instance.ShowGameOver();
+        else if (playerRespawn != null)
             playerRespawn.SendMessage("RespawnPlayer", SendMessageOptions.DontRequireReceiver);
-        else
-            gameObject.SetActive(false);
     }
 
     static bool HasAnimTrigger(Animator animator, string triggerName)
